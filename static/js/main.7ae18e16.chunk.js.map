@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["connect","send"],"mappings":"icAIAA,EAAQC,KAAK,kB","file":"static/js/main.7ae18e16.chunk.js","sourcesContent":["import 'core-js/features/map';\nimport 'core-js/features/set';\nimport connect from '@vkontakte/vk-connect';\n// Init VK  Mini App\nconnect.send('VKWebAppInit');\n"],"sourceRoot":""}

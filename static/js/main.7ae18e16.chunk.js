@@ -1,0 +1,2 @@
+(this["webpackJsonpteplo-bookform"]=this["webpackJsonpteplo-bookform"]||[]).push([[0],{57:function(o,p,t){o.exports=t(58)},58:function(o,p,t){"use strict";t.r(p);t(59),t(86),t(88),t(89),t(91),t(92),t(93),t(94),t(95),t(96),t(97),t(98),t(100),t(101),t(102),t(103),t(104),t(105),t(106),t(107),t(108),t(109),t(111),t(112),t(113),t(114),t(115),t(116),t(117),t(118),t(119),t(120),t(121),t(122),t(123),t(124),t(125),t(126),t(127),t(128);var n=t(56);t.n(n).a.send("VKWebAppInit")}},[[57,1,2]]]);
+//# sourceMappingURL=main.7ae18e16.chunk.js.map
