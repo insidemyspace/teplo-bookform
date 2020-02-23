@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "524aade96c17709c0db714944e2eb91e",
+    "revision": "31ea47e108b713340b7d6cd0aac5d12e",
     "url": "/teplo-bookform/index.html"
   },
   {
