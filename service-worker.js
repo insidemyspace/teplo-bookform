@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teplo-bookform/precache-manifest.08fb2a9d6f15f6b9684405b9e0bc513a.js"
+  "/teplo-bookform/precache-manifest.f1ccad5330633ccdbd6c721551dff568.js"
 );
 
 self.addEventListener('message', (event) => {
